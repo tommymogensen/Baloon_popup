@@ -47,6 +47,8 @@ This will display a system tray balloon notification with:
 ---
 
 ## Function Details
+![My Image](windows_baloon.jpg)
+
 
 ### `ShowBalloonTipInfo`
 
